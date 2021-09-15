@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## Stack
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+## 🍒Stack
+<img src="https://img.shields.io/badge/Java-007396?style=style=for-the-badge&logo=Java&logoColor=white"/>
 
 ### Hi there 👋
 
