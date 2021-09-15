@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=150&section=header&text=Hee%20Rak&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Hee%20Rak&fontSize=45)
 
 ### Hi there 👋
 
